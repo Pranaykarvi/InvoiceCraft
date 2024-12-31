@@ -11,6 +11,6 @@ InvoiceCraft is a simple yet powerful invoice generator that enables businesses,
 
 ## Installation:
 ```bash
-git clone https://github.com/yourusername/InvoiceCraft.git
+git clone https://github.com/pranaykarvi/InvoiceCraft.git
 cd InvoiceCraft
 pip install -r requirements.txt
